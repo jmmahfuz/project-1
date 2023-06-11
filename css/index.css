@@ -1,4 +1,13 @@
-.logo_img{
+.logo_img {
     height: 70px;
     width: 70px;
+}
+
+.user {
+    background-color: #f5e8e8;
+}
+
+.book {
+    background-color: green;
+    background-image: linear-gradient(to top right, rgb(30, 146, 30), #FFF);
 }

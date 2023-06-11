@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="https://kit.fontawesome.com/45030ec278.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/index.css">
 </head>
@@ -80,8 +81,39 @@
         </header>
         <!-- header part end -->
 
+        <!-- main part start -->
+        <main>
+            <!-- banner part start  -->
+            <div class="row">
+                <div class="col-lg-3 px-5 user rounded"> <br>
+                    <div>
+                        <i class="fa-solid fa-user"></i>
+                    </div>
+                    Administrator
+                    <hr>
+                    <i class="fa-solid fa-house"></i> Home
+                    <hr>
+                    <i class="fa-solid fa-burger"></i> Accounts
+                    <hr>
+                    <i class="fa-solid fa-book"></i> Books
+                    <hr>
+                    <i class="fa-solid fa-dice-four"></i> Transaction
+                    <hr>
+                    <i class="fa-solid fa-gear"></i> Setting
+                    <hr>
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="book col-lg-8 d-flex justify-content-center align-items-center">
+                    <div>
+                        <img src="images/book.jpg" alt="">
+                    </div>
+                </div>
 
-        <main></main>
+            </div>
+            <!-- banner part end -->
+        </main>
+        <!-- main part end -->
+
         <footer></footer>
     </div>
 </body>
