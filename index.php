@@ -84,8 +84,8 @@
         <!-- main part start -->
         <main>
             <!-- banner part start  -->
-            <div class="row">
-                <div class="col-lg-3 px-5 user rounded"> <br>
+            <div class="row banner py-4 ps-2">
+                <div class="col-lg-3 px-5 banner_left rounded"> <br>
                     <div>
                         <i class="fa-solid fa-user"></i>
                     </div>
@@ -103,7 +103,7 @@
                     <hr>
                 </div>
                 <div class="col-lg-1"></div>
-                <div class="book col-lg-8 d-flex justify-content-center align-items-center">
+                <div class="banner_right col-lg-8 d-flex justify-content-center align-items-center rounded">
                     <div>
                         <img src="images/book.jpg" alt="">
                     </div>

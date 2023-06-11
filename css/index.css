@@ -1,13 +1,46 @@
 .logo_img {
     height: 70px;
     width: 70px;
+    border-radius: 50%;
 }
 
-.user {
+.banner {
     background-color: #f5e8e8;
 }
 
-.book {
+.banner_left {
+    background-color: #FFF;
+}
+
+.banner_right {
     background-color: green;
     background-image: linear-gradient(to top right, rgb(30, 146, 30), #FFF);
+}
+
+
+/* sign_in page css start */
+
+.logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.title_1{
+    font-size: 18px;
+}
+.title_2{
+    font-size: 22px;
+}
+
+.book{
+    height: 150px;
+    width: 260px;
+}
+.input_field{
+    border: none;
+    border-bottom: 1px solid #bdabab;
+}
+.sign_in{
+    padding-left: 100px;
 }
